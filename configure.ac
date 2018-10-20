@@ -1,7 +1,7 @@
 dnl Copyright (C) 2018  Trevor Woerner <Trevor Woerner <twoerner@gmail.com>>
 
 AC_PREREQ(2.57)
-AC_INIT([YPDD ELCE2018 Example Clean], 1.0.0, twoerner@gmail.com, ypdd-elce2018-example-clean)
+AC_INIT([YPDD ELCE2018 Example Clean], 1.0.1, twoerner@gmail.com, ypdd-elce2018-example-clean)
 AC_CONFIG_SRCDIR(src/ypdd-elce2018-example.c)
 AC_CONFIG_AUX_DIR(cfg)
 AM_INIT_AUTOMAKE([foreign no-dist-gzip dist-bzip2 1.9])
