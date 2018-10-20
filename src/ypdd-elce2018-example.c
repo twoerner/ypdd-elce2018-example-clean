@@ -11,7 +11,7 @@
 int
 main (void)
 {
-	printf("Hello, world!\n");
+	printf("Hello, Edinburgh!\n");
 	lib_function();
 
 	return EXIT_SUCCESS;
